@@ -4,6 +4,7 @@
     padding:0%;
     margin:0%;
     text-align:center;
+    background-color:rgb(233, 233, 233); 
 }
 
 .header {
@@ -45,7 +46,7 @@ a {
 
 .me{
     text-align: left;
-    margin-top: 100px;
+    margin-top: 200px;
     margin-left: 30px;
     font-size: 50px;
     
